@@ -42,7 +42,7 @@ GEM
     builder (3.0.0)
     bundler_local_development (0.3.0)
       bundler
-    cloudfuji (0.0.43)
+    cloudfuji (0.0.44)
       highline (>= 1.6.1)
       json (>= 1.4.6)
       orm_adapter (~> 0.0.3)
