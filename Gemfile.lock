@@ -72,8 +72,8 @@ GEM
     email_spec (1.2.1)
       mail (~> 2.2)
       rspec (~> 2.0)
-    errbit_cloudfuji (0.1.5)
-      cloudfuji (>= 0.0.42)
+    errbit_cloudfuji (0.2.3)
+      cloudfuji (>= 0.0.44)
       devise_cloudfuji_authenticatable
       uuid
     erubis (2.7.0)
@@ -103,7 +103,7 @@ GEM
       has_scope (~> 0.5.0)
       responders (~> 0.6)
     journey (1.0.3)
-    json (1.4.6)
+    json (1.7.3)
     kaminari (0.13.0)
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
@@ -272,7 +272,7 @@ DEPENDENCIES
   debugger
   devise (~> 1.5.3)
   email_spec
-  errbit_cloudfuji (>= 0.1.5)
+  errbit_cloudfuji (>= 0.2.3)
   execjs
   fabrication (~> 1.3.0)
   haml
